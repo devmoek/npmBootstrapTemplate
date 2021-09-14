@@ -8,10 +8,6 @@
 
 [![Build Status](https://github.com/twbs/bootstrap-npm-starter/workflows/CI/badge.svg)](https://github.com/twbs/bootstrap-npm-starter/actions)
 
-## Repo template
-
-Setup as a starter template, you can easily generate a new GitHub repository. From the repository homepage, click the `Use this template` button.
-
 ## What's included
 
 - Single HTML page (`index.html`) to demonstrate how to include Bootstrap.
